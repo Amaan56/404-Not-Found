@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+
+.brand {
+  font-family: Inconsolata;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-align: left;
+}
